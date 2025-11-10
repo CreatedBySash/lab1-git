@@ -1,5 +1,6 @@
-# Contributing
-1. Fork the repo
-2. Create a branch for your changes
-3. Add changes and commit
-4. Open a Pull Request
+# Contributing Guidelines
+Дякуємо, що хочете внести свій внесок у проєкт!
+- Клонуйте репозиторій
+- Створюйте нову гілку для фічі
+- Пишіть коміти атомарно
+- Робіть Pull Request у main
